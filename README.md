@@ -1,6 +1,6 @@
-# 🧙‍♂️ Arsenie
+# 🧙‍♂️ Iqhwa
 
-`Artist` `Animator` `Coder` `Cinephile` `Cyclist`
+`Animator` `Coder` `Cinephile` `Cyclist` `Casual Fragment Writer` `Theatre Kid`
 
 <p>Year 2 BICT Software Engineering Student</p>
 
