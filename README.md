@@ -1,8 +1,8 @@
-# Arsenie
+# 🧙‍♂️ Arsenie
 
-`Year 2 BICT Software Engineering Student`
+`Artist` `Animator` `Coder` `Cinephile` `Cyclist`
 
-<p>[opening bio]</p>
+<p>Year 2 BICT Software Engineering Student</p>
 
 <h2> Language and Tools </h2>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7a982fd7ff2590bd9c4c0c804d36ec84f4b6a54ce4a062e939b1455f619bf975/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667">
