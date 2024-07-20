@@ -1,4 +1,8 @@
-## Hi there 👋
+# Arsenie
+
+** `Year 2 BICT Software Engineering Student` **
+
+<p>Hello</p>
 
 <!--
 **arsenie-sarmiento/arsenie-sarmiento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
