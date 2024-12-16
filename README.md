@@ -4,6 +4,18 @@
 Year 2 BICT Software Engineering Student  
 🌟 per aspera ad astra 🌟
 
+
+---
+
+## 🌱 I’m currently learning about ...
+- Large Language Model
+- Dataverse, Powerapps, & Power Pages
+
+## 🔭 I’m currently working on ...
+- ShiftSync web application
+- Digital Wallet internship project
+
+
 ---
 
 ## 🔍 I'm continuously exploring about these tools ...
@@ -72,13 +84,3 @@ Year 2 BICT Software Engineering Student
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="40" height="40"/></td>
   </tr>
 </table>
-
----
-
-## 🌱 I’m currently learning about ...
-- Large Language Model
-- Dataverse, Powerapps, & Power Pages
-
-## 🔭 I’m currently working on ...
-- ShiftSync web application
-- Digital Wallet internship project
