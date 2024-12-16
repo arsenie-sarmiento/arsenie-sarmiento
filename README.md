@@ -1,18 +1,13 @@
 # 🧙‍♂️ Iqhwa
 
 `Animator` `Coder` `Cinephile` `Cyclist` `Casual Fragment Writer` `Theatre Kid`
-<html>
-  <head>
     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  </head>
-  <body>
     <p>Year 2 BICT Software Engineering Student</p>
     <p>&#10023; per aspera ad astra &#10023;</p>
     
     <hr>
     <h2>🔍 I'm continuously exploring about these tools ...</h2>
 
-    
     <h3>UI Design</h3>
     <i class="devicon-figma-plain"></i>
     <i class="devicon-gimp-plain"></i>
@@ -64,5 +59,3 @@
       <li>ShiftSync web application</li>
       <li>Digital Wallet internship project</li>
     </ul>
-  </body>
-</html>
