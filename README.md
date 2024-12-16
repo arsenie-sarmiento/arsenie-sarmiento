@@ -5,6 +5,17 @@
 <p>Year 2 BICT Software Engineering Student</p>
 <p>&#10023; per aspera ad astra &#10023;</p>
 
+<hr>
+<h2>Currently learning about</h2>
+<ul>
+  <li>Large Language Model</li>
+  <li>Dataverse, Powerapps, & Power pages</li>
+</ul>
+<h2>Currently working on</h2>
+<ul>
+  <li>ShiftSync web application</li>
+  <li>Digital Wallet internship project</li>
+</ul>
 <!--
 https://youtu.be/9A8sQZDRn5o?t=147
 
