@@ -3,7 +3,7 @@
 `Animator` `Coder` `Cinephile` `Cyclist` `Casual Fragment Writer` `Theatre Kid`
 
 <p>Year 2 BICT Software Engineering Student</p>
-<p>```per aspera ad astra```</p>
+<p>&#10023; per aspera ad astra &#10023;</p>
 
 <!--
 https://youtu.be/9A8sQZDRn5o?t=147
