@@ -14,6 +14,7 @@ Year 2 BICT Software Engineering Student
 
 ## 🔭 I’m currently working on ...
 - ShiftSync web application
+- OarBit Pulse remake using .NET framework
 - Digital Wallet internship project
 
 
