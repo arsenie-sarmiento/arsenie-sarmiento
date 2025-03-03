@@ -2,7 +2,7 @@
 
 `Animator` `Coder` `Cinephile` `Cyclist` `Casual Fragment Writer` `Theatre Kid`  
 
-Year 2 BICT Software Engineering Student  
+Year 3 BICT Software Engineering Student  
 🌟 per aspera ad astra 🌟
 
 
