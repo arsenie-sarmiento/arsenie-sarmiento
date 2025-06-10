@@ -64,7 +64,7 @@
 <a href="https://instagram.com/efeele.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efeele.dev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/efeeledev" target="_bblank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="efeeledev" height="30" width="40" /></a>
  -->
-<!-- <br>
+<br>
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -84,7 +84,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arsenie-sarmiento&bg_color=26272D&title_color=FFFFFF&color=77EBFC&line=77EBFC&point=AE7BFA&area_color=FAACFF&area=true&radius=16&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![github-trophies](https://stats.dooboo.io/api/github-trophies?login=arsenie-sarmiento) -->
+![github-trophies](https://stats.dooboo.io/api/github-trophies?login=arsenie-sarmiento)
 <!-- 
 ## 🔍 I'm continuously exploring about these tools ...
 
