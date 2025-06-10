@@ -1,14 +1,13 @@
 ![background](https://github.com/user-attachments/assets/74f81674-d5b4-44dc-abf5-6f590c41bc71)
-<h1 align="center">Hi 👋, I'm Arsenie Sarmiento [ 🧙‍♂️ Iqhwa ] </h1>
+<h1 align="center">Hi 👋, I'm Arsenie Sarmiento 🧙‍♂️</h1>
 <h3 align="center">A third-year Software Engineering Student from CHCH New Zealand</h3>
-<center>
-  
-`Animator` `Coder` `Cinephile` `Cyclist` `Casual Fragment Writer` `Theatre Kid`    
-
-</center>
-
-🌟 per aspera ad astra 🌟
----
+<!-- <h6 align="center">
+  Animator | Coder | Cinephile | Cyclist | Casual | Fragment Writer | Theatre Kid    
+</h6>
+ -->
+ <h6 align="center">
+  🌟 per aspera ad astra 🌟
+ </h6>
 
 ## 🌱 I’m currently learning about ...
 - Large Language Model
