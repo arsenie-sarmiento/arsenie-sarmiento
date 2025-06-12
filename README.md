@@ -79,12 +79,10 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
  </p>
- 
 
 ![arsenie-sarmiento github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=arsenie-sarmiento&count_private=true)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arsenie-sarmiento&bg_color=26272D&title_color=FFFFFF&color=77EBFC&line=77EBFC&point=AE7BFA&area_color=FAACFF&area=true&radius=16&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![github-trophies](https://stats.dooboo.io/api/github-trophies?login=arsenie-sarmiento)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arsenie-sarmiento&bg_color=26272D&title_color=FFFFFF&color=77EBFC&line=77EBFC&point=AE7BFA&area_color=FAACFF&area=true&radius=16&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- 
 ## 🔍 I'm continuously exploring about these tools ...
