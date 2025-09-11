@@ -10,10 +10,9 @@
  </h6>
 
 ## 🌱 I’m currently learning about ...
-- Large Language Model
+- AWS Device Farm
+- E2E Test with Mocha + Chai and Appium + WebdriverIO
 - Microsoft Copilot, Dataverse, Powerapps, & Power Pages
-- Sonarqube
-- Amazon Q
   
 ## 🔭 I’m currently working on ...
 - ShiftSync web application
