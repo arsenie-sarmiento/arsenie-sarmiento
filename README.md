@@ -10,21 +10,20 @@
  </h6>
 
 ## 🌱 I’m currently learning about ...
-- AWS Device Farm
-- E2E Test with Mocha + Chai and Appium + WebdriverIO
+- AWS Device Farm & E2E Test with Mocha + Chai and Appium + WebdriverIO
 - Microsoft Copilot, Dataverse, Powerapps, & Power Pages
   
 ## 🔭 I’m currently working on ...
+- E2e Regression Testing Suite as a Capstone Project for Wallo Pay
+- BluePrintNZ website for Prostate Cancer Foundation Aotearoa
 - ShiftSync web application
 - OarBit Pulse remake using .NET framework
-- Digital Wallet internship project
-- BluePrintNZ
 
 ---
 
 <!-- 
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2>🛠️ </h2></summary>
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
